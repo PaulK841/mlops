@@ -1,0 +1,16 @@
+# Core ML Libraries
+scikit-learn
+pandas
+numpy
+
+# MLOps and Experiment Tracking
+mlflow
+dagshub
+dvc
+
+# API Framework and Server
+fastapi
+uvicorn[standard]
+
+# Model serialization
+joblib
